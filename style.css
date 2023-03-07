@@ -104,10 +104,6 @@ img {
 .dance-skill-description {
     clear: left;
 }
-.contact-msg {
-    width: 40%;
-    margin: 40px auto 60px;
-}
 .btn {
     background: #30e3cb;
     background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
